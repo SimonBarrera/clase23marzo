@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 400;
+    background: #e6e6fa;
+    color:#222;
+}
+
+h1,h2,h3,h4,h5,h6
+{font-weight: 700; 
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-variant:small-caps;
+    color:#ffffff;
+}
+
+h5 {
+     margin-bottom: 3rem;
+}
+
+span{
+    font-weight: 700;
+}
+
+div#mapid{
+    width: 100%;  
+    height: 400px; 
+    margin-bottom: 20px;
+}
